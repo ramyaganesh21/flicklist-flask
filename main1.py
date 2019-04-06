@@ -31,7 +31,4 @@ def get_random_movie():
     
     movie = ["The Big Lebowski","Titanic", "Jurrasic Park", "Forest Gump", "Slum Dog Millionaire"]
     return random.choice(movie)
-
-
-
 app.run  ()  
